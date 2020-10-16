@@ -1,2 +1,5 @@
-# SI-Inventari-Kantor
-Sistem Informasi Inventaris Kantor Cv. LrSoft
+# SI-Inventari-Lab
+Sistem Informasi Inventaris Laboratorium
+
+technologies are used:
+Bootstrap, XAMPP.
