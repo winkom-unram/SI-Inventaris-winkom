@@ -15,6 +15,12 @@
   height: 2px;
 }
 
+#loading {
+  width: 50%;
+  height: 50%;
+  position: center;
+}
+
 /* Fancy blur effect */
 #nprogress .peg {
   display: block;
